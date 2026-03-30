@@ -1,4 +1,4 @@
-package assignments;
+package weeklyassignments;
 
 public class Datatype_assignments1 {
 
